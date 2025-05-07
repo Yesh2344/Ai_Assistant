@@ -169,3 +169,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with [Convex](https://convex.dev)
 - UI components inspired by modern chat applications
 - OpenAI for AI capabilities
+
+## Link
+
+- https://rugged-cow-426.convex.app/
