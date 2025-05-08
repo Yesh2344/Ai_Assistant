@@ -160,16 +160,3 @@ npm run build
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Built with [Convex](https://convex.dev)
-- UI components inspired by modern chat applications
-- OpenAI for AI capabilities
-
-## Link
-
-- https://rugged-cow-426.convex.app/
