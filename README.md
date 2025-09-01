@@ -4,10 +4,7 @@ A real-time chat application with AI responses built using React, Convex, and Op
 
 ## Features
 
-- 🔐 **User Authentication**
-  - Email/Password login
-  - Anonymous login support
-  - Secure session management
+
 
 - 💬 **Real-time Chat**
   - Instant message delivery
