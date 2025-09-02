@@ -47,10 +47,7 @@ A real-time chat application with AI responses built using React, Convex, and Op
 
 ### Prerequisites
 
-- Node.js 18 or higher
-- npm or yarn
-- A Convex account
-- An OpenAI API key (optional - built-in key provided for development)
+
 
 ### Installation
 
