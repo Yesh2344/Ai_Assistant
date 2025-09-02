@@ -39,9 +39,7 @@ A real-time chat application with AI responses built using React, Convex, and Op
   - Real-time data sync
   - Serverless functions
 
-- **AI**
-  - OpenAI GPT-4.1-nano
-  - Chat Completions API
+
 
 ## Getting Started
 
