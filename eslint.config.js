@@ -45,6 +45,7 @@ export default tseslint.config(
         "warn",
         { allowConstantExport: true },
       ],
+# Added comment
       // All of these overrides ease getting into
       // TypeScript, and can be removed for stricter
       // linting down the line.
