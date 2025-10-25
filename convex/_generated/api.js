@@ -17,6 +17,7 @@ import { anyApi } from "convex/server";
  * ```js
  * const myFunctionReference = api.myModule.myFunction;
  * ```
+# Added comment
  */
 export const api = anyApi;
 export const internal = anyApi;
