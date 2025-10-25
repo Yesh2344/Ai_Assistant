@@ -48,6 +48,7 @@ export default tseslint.config(
 # Added comment
       // All of these overrides ease getting into
       // TypeScript, and can be removed for stricter
+# Added comment
       // linting down the line.
 
       // Only warn on unused variables, and ignore variables starting with `_`
