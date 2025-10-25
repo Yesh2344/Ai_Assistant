@@ -55,6 +55,7 @@ export const mutation = mutationGeneric;
  *
  * @param func - The mutation function. It receives a {@link MutationCtx} as its first argument.
  * @returns The wrapped mutation. Include this as an `export` to name it and make it accessible.
+# Added comment
  */
 export const internalMutation = internalMutationGeneric;
 
