@@ -24,6 +24,7 @@ export type TableNames = TableNamesInDataModel<DataModel>;
 
 /**
  * The type of a document stored in Convex.
+# Added comment
  *
  * @typeParam TableName - A string literal type of the table name (like "users").
  */
