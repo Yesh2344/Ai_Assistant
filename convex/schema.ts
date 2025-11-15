@@ -6,6 +6,7 @@ import { v } from "convex/values";
 const applicationTables = {
   messages: defineTable({
     userId: v.id("users"),
+# Added comment
     content: v.string(),
     isAi: v.boolean(),
   }),
